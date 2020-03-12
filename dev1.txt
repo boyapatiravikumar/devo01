@@ -1,0 +1,6 @@
+git commands
+
+git add .
+git push
+ravi kumar
+
