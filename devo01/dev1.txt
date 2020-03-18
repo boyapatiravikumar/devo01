@@ -1,0 +1,9 @@
+git commands
+
+git add .
+git push
+ravi kumar
+
+git statsu
+git colne
+git log
